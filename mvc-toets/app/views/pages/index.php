@@ -1,5 +1,5 @@
 <?php
-    echo URLROOT;
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +9,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <a href="URLROOT/countries/index.php">test</a>
+    <a href="/countries/index.php">test</a>
 </body>
 </html>
